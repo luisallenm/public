@@ -1,0 +1,48 @@
+/*services*/
+#services .container .row {margin:50px 0 0 0;}
+#services .container .row .w-divider4 {margin:24px auto 24px;}
+#services .container .row.w-divider4 h3 {font-weight:800;color:#3b454d;font-size:24px;}
+#services .container .row .w-divider4 .spl,#services .container .row .w-divider4 .spr {background:#fff;padding:0 10px 0 0;}
+#services .container .row .w-divider4 .spln {display:block;margin-top:-17px;border-bottom:1px solid #e5e5e5;}
+#services .container .row .col-md-6 p {margin:0 0 20px 0;color:#424242;font-size:15px;line-height:1.6;font-weight:300;letter-spacing:0.2px;}
+#services .container .row .col-md-6 .fa-ul li i {color:#9b0000;}
+#services .container .contactus {border:1px solid #009B4C;box-shadow:5px 5px 2px #CCC;}
+#services .container .contactus p {font-size:18px;font-weight:600;padding:30px 0;}
+#services .container .contactus .col-md-2 {padding:30px 0;}
+#services .container .row .col-md-3 .core-ser .icon-box17 {position:relative;display:block;overflow:hidden;padding:45px 10px 20px;text-align:center;color:#0099ff;border:3px solid #f3f3f3;border-top:none;border-radius:4px;-webkit-box-shadow:0 -3px 0 0;box-shadow:0 -3px 0 0;}
+#services .container .row .col-md-3 .core-ser .icon-box17::before {content:'';width:0;height:0;position:absolute;top:0;left:50%;margin-left:-8px;border:none;}
+#services .container .row .col-md-3 .core-ser .icon-box17:hover {background:transparent;-webkit-box-shadow:0 3px 0 0,0 -4px 0 0;box-shadow:0 3px 0 0,0 -4px 0 0;}
+#services .container .row .col-md-3 .core-ser .icon-box17 .icon-wrap {display:inline-block;background-color:#0099ff;border-radius:50%;margin-bottom:32px;border:1px solid transparent;}
+#services .container .row .col-md-3 .core-ser .icon-box17 i {width:108px;height:108px;padding:30px;background:#fff;color:#0099ff;border-radius:50%;cursor:default;font-size:48px;line-height:48px;display:inline-block;-webkit-transition:all .3s ease;-moz-transition:all .3s ease;-ms-transition:all .3s ease;-o-transition:all .3s ease;transition:all .3s ease;}
+#services .container .row .col-md-3 .core-ser .icon-box17:hover i {background:none;color:#fff !important;box-shadow:none;}
+#services .container .row .col-md-3 .core-ser .icon-box17 h4 {margin-bottom:13px;font-size:18px;letter-spacing:-0.3px;font-weight:bold;text-transform:uppercase;color:#292929;}
+#services .container .row .col-md-3 .core-ser .icon-box17 p {font-size:14px;color:#777;margin-bottom:25px;padding:0 15px;}
+#services .container .row .col-md-4 .row .col-md-2 i {color:#009B4C;}
+#services .container .row .col-md-4 .row .col-md-10 p {color:#777;}
+html body section#services div.container div.row div.col-md-4 div.row div.col-md-10 b {font-size:20px;}
+/*services*/
+
+/*aboutus*/
+#aboutus .container .row .col-md-6 .row {margin:20px 10px;}
+#aboutus .container .w-divider3 {margin:24px auto 24px;}
+#aboutus .container .w-divider3 h3 {font-weight:600;color:#3b454d;font-size:24px;}
+#aboutus .container .w-divider3 .spb {background:#fff;padding-right:10px;}
+#aboutus .container .w-divider3 .spl,#aboutus .container .w-divider3 .spr {padding:0 10px 0 0;border-radius:6px;}
+#aboutus .container .w-divider3 .spr {color:#fff;padding:0 10px;}
+#aboutus .container .w-divider3 .spln {display:block;margin-top:-17px;border-bottom:1px solid #e5e5e5;}
+#aboutus .container .colorb {background-color:#b1160a;}
+section.parallax.parallax-3 {padding:180px 0px;background-image:url("../img/bg/Direccion.jpg");background-position:100% 100%;}
+#aboutus .container .row h1 p {font-size:20px;font-weight:normal;text-transform:none;}
+#aboutus .container .row .col-md-3 {padding:20px;}
+#aboutus .container .row .col-md-3 img {border-bottom:4px solid transparent;}
+#aboutus .container .row .col-md-3 img:hover {border-bottom:4px solid #009B4C;}
+#aboutus .container .row .col-md-3 .name {font-size:18px;margin:12px 0 0;font-weight:600;line-height:1.4;}
+#aboutus .container .row .col-md-3 .zw {color:#009B4C;font-size:13px;line-height:1.5;font-weight:600;text-transform:uppercase;}
+#aboutus .container .row .col-md-3 .info {padding:10px 0 20px;font-size:14px;color:#8a8a8a;border-bottom:2px solid #efefef;}
+#aboutus video {min-width:100%;min-height:100%;width:auto;height:auto;z-index:-100;background-size:cover;}
+/*aboutus*/
+.fucki p {font-size: 16px; line-height: 24px;}
+@media (max-width: 760px) {
+	#aboutus video {max-width: 100%;}
+	#services .button-glow{display: block;margin: auto;}
+}
